@@ -1,2 +1,1 @@
-hysteria://5.83.129.153:20088?alpn=h3&amp;auth=dongtaiwang.com&amp;downmbps=1000&amp;protocol=udp&amp;insecure=1&amp;peer=apple.com&amp;upmbps=500#%F0%9F%87%A9%F0%9F%87%AADE_2%7C842KB%2Fs
-hysteria://dongtaiwang.com@5.83.129.90:54177?sni=apple.com&upmbps=500&downmbps=1000&insecure=1&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%202.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+hysteria://95.182.85.39:21402?downmbps=100&amp;upmbps=100&amp;auth=8TTauzC6Yundefined&amp;security=tls&amp;sni=tunnel.axonshield.ir&amp;fastopen=0#
