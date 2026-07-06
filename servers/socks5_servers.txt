@@ -1,2 +1,3 @@
-socks5://5.255.99.75:1080
-socks5://:@5.255.117.250:1080
+socks5://:@5.255.117.127:1080
+socks5://myproxy.com:3128
+socks5://your-sub-user-loc-us:your-password@p1.bytesflows.com:1080
