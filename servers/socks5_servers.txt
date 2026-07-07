@@ -1,2 +1,8 @@
-socks5://5.255.113.177:1080#%F0%9F%95%B9%EF%B8%8F59@oneclickvpnkeys
-socks5://74.162.65.56:1080#%F0%9F%95%B9%EF%B8%8F60@oneclickvpnkeys
+socks5://206.123.156.230:5132
+socks5://206.123.156.230:5871
+socks5://206.123.156.233:4573
+socks5://206.123.156.233:5198
+socks5://206.123.156.236:5588
+socks5://5.255.113.177:1080#%F0%9F%95%B9%EF%B8%8F59@v2ray_configs_pools
+socks5://74.162.65.56:1080#%F0%9F%95%B9%EF%B8%8F60@v2ray_configs_pools
+socks5://93.177.116.84:1080#%F0%9F%87%B3%F0%9F%87%B1103868%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
