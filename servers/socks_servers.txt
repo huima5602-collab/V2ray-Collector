@@ -1,8 +1,4 @@
-socks://Og@134.122.1.61:11679#%40v2raybaaz%20%C2%B2
-socks://Og@157.90.183.51:5555#%E2%9C%85%40v2r_ayorg
-socks://Og@45.94.213.213:443#%40NetZone_ir
-socks://Og@89.44.112.13:1093#@meliproxyy
-socks://Og@91.107.253.241:1080#%40hi_proxy_iran
-socks://Og@93.118.142.196:1093#@meliproxyy
-socks://Og@94.182.135.133:3030#@V2ray_confing33
-socks://TV9ZT1VfRDpQcml2YXRl@pl1.cactussstp.com:1080#telegram%20%40mtmvpn
+socks://130.185.72.19:1090#%F0%9F%87%AE%F0%9F%87%B7107544%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://93.118.142.196:1093#%F0%9F%87%AE%F0%9F%87%B7107545%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://94.182.135.133:3030#%F0%9F%87%AE%F0%9F%87%B7107543%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://Og@94.182.135.133:3030#@meliproxyy
