@@ -1,1 +1,1 @@
-hysteria://95.182.85.39:21402?downmbps=100&amp;upmbps=100&amp;auth=8TTauzC6Yundefined&amp;security=tls&amp;sni=tunnel.axonshield.ir&amp;fastopen=0#
+hysteria://5.83.129.143:26691?alpn=h3&amp;auth=dongtaiwang.com&amp;auth_str=dongtaiwang.com&amp;downmbps=55
