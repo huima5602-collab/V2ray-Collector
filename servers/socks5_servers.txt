@@ -1,1 +1,4 @@
-socks5://144.91.111.48:1088#%F0%9F%87%AB%F0%9F%87%B7%20France%20Lauterbourg%20%7C%20%E2%8F%B1701ms%20%7C%20%E2%9A%A198KB%2Fs%20%7C%20%40NamazVPN
+socks5://111:111@47.243.173.50:11211
+socks5://144.91.111.48:1088#%F0%9F%9B%B0%EF%B8%8F11@oneclickvpnkeys
+socks5://:@5.255.117.127:1080
+socks5://M_YOU_D:Private@pl1.cactussstp.com:1080
