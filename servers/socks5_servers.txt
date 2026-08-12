@@ -1,3 +1,4 @@
-socks5://:@69.55.49.177:38182
-socks5://M_YOU_D:Private@85.17.179.81:1080#%F0%9F%AA%A291@oneclickvpnkeys
+socks5://127.0.0.1:4443
+socks5://91.199.43.167:22000/#%F0%9F%87%AE%F0%9F%87%B7%20Tehran%2C%20IR%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%E2%80%A6%20%7C%2091.199.43.167
+socks5://admin:admin@158.180.91.51:5555
 socks5://u8471537504:k6vz7jReGKNZKEuU@45.192.198.137:8888
