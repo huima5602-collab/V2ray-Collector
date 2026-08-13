@@ -1,1 +1,4 @@
+hysteria://62.210.10.186:35511?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.10.186%20%231
+hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.10.186%20%232
 hysteria://62.210.127.217:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.127.217
+hysteria://62.210.196.68:26691?alpn=h3&auth=dongtaiwang.com&downmbps=55#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.196.68
