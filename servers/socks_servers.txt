@@ -1,6 +1,1 @@
-socks://Og%3D%3D@89.44.112.13:1100#@v2rayng3
-socks://Og@5.57.32.204:10808#%F0%9F%87%B9%F0%9F%87%B7%20%40ConfigV2RayNG%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
-socks://Og@85.133.242.171:5443#
-socks://TV9ZT1VfRDpQcml2YXRl@85.17.179.81:1080#Proxy_mtm%2026
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOg@ch-zur.pvdata.host:1080#@meliproxyy
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20MTMVPN
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD142816%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
