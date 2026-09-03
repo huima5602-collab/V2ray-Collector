@@ -1,3 +1,1 @@
-hysteria://47.76.32.35:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&alpn=h3#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%2047.76.32.35
-hysteria://8.217.251.2:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&alpn=h3#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%208.217.251.2
-hysteria://8.217.86.232:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&alpn=h3#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%208.217.86.232
+hysteria://5.83.129.153:20088?alpn=h3&amp;auth_str=dongtaiwang.com&amp;downmbps=1000&amp;insecure=1&amp;peer=apple.com&amp;udp=true&amp;upmbps=500#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.1MB%2Fs%7CGPT%E2%81%BA%7CYT-NL%7CD%2B%7C50%25
