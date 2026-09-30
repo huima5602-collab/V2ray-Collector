@@ -1,4 +1,1 @@
-socks://MTExOjExMQ@47.243.173.50:11211#%40Hddify%20-%20%F0%9F%8D%B7%20%C2%B9%C2%B2
-socks://MTIzOjEyMw@8.217.182.75:3060#
-socks://Og@185.79.96.94:1070#Channel%20%3A%20%40Daily_Configs
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
+socks://MTIzOjEyMw@8.217.182.75:3060#%40FarazV2ray
