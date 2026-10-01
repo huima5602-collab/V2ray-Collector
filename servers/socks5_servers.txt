@@ -1,1 +1,9 @@
-socks5://109.123.251.109:1080#%F0%9F%AB%9271@oneclickvpnkeys
+socks5://103.210.161.8:1080
+socks5://45.144.54.40:1080
+socks5://:@5.255.99.75:1080
+socks5://KH6JSw8o:V2RayyNGvpn-V2RayyNGvpn@168.222.43.35:8443
+socks5://Og:Og@103.210.161.8:1080
+socks5://Og==:Og==@103.210.161.8:1080
+socks5://S8WJyKys:V2RayyNGvpn@168.222.43.35:8443
+socks5://T2c9PTpPZz09:T2c9PTpPZz09@103.210.161.8:1080
+socks5://admin:admin@47.242.19.215:8899
