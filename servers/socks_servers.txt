@@ -1,3 +1,2 @@
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080?note=@FreeOnlineVPN#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%20%28LU%29%20-%20Unknown%20%7C%20lu-lux.pvdata.host%3A1080
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%28PL%29%20-%20Unknown%20%7C%20pl-tor.pvdata.host%3A1080
-socks://Og@89.58.42.118:3129#%F0%9F%8C%8D45%40ConfigV2RayNG
+socks://Og@91.107.247.193:7001#YFZ%2082%20%40Outline_Vpn
+socks://ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD198611%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
