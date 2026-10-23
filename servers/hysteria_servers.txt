@@ -1,3 +1,1 @@
-hysteria://ru1.shiyuandian.shop:7864?upmbps=100&downmbps=200&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&insecure=1&peer=ru1.shiyuandian.shop&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%28RU%29%20-%20Moscow%20%7C%20ru1.shiyuandian.shop%3A7864
-hysteria://tr1.shiyuandian.shop:6632/?insecure=1&peer=tr1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=1000&downmbps=1000&alpn=h3#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%28TR%29%20-%20Istanbul%20%7C%20tr1.shiyuandian.shop%3A6632
-hysteria://uk1.shiyuandian.shop:7228/?insecure=1&peer=uk1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%28GB%29%20-%20City%20of%20London%20%7C%20uk1.shiyuandian.shop%3A7228
+hysteria://62.210.70.191:24667?alpn=h3&amp;auth=dongtaiwang.com&amp;downmbps=55
