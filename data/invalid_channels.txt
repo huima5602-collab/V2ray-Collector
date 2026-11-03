@@ -1,4 +1,4 @@
-Invalid Telegram Channels — 2026-11-03T14:09:29.589217+00:00
+Invalid Telegram Channels — 2026-11-03T23:18:22.786550+00:00
 
 shaxhabb
 v2ray_443
@@ -7,6 +7,7 @@ begzarproxy
 imokping
 frev2rayng
 blackstarslx
+freeconfigsplus
 drvpn7
 acccrd
 canfigiop
@@ -23,5 +24,4 @@ saministamm
 skyportall
 azdeltaghalam7
 generalconfing
-rezzonez
 config_free2
