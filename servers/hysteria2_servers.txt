@@ -1,3 +1,1 @@
-hysteria2://769f34f0-1500-488f-b414-03bc90666502@185.153.55.28:443/?sni=se.mimowhat.online#%F0%9F%A5%8C11@oneclickvpnkeys
-hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&amp;obfs=salamander&amp;obfs-password=HysteriaHowdy&amp;sni=sni-here.com#%F0%9F%87%B3%F0%9F%87%B1208439%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://eik6hcffscbuqdbt@kp09bn7y.easyiran.org:46183?security=tls&amp;obfs=salamander&amp;obfs-password=egnqz8stetfo2ci9&amp;insecure=0&amp;sni=kp09bn7y.easyiran.org#%40tootffarangi%F0%9F%8D%93-1
+hysteria2://xo43w4tc13ou2h3x@mein-1.octavia.dpdns.org:60000?security=tls&amp;obfs=salamander&amp;obfs-password=ckwudzzsfoltmbmi&amp;insecure=0&amp;sni=main-1.octavia.dpdns.org#channel%20%3A%20%40Daily_Configs
